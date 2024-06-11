@@ -2,18 +2,14 @@
 
 namespace Modules\Icommercecheckmo\Transformers;
 
-use Illuminate\Http\Resources\Json\Resource;
+use Illuminate\Http\Resources\Json\JsonResource;
 
-class CheckmoTransformers extends Resource
+class CheckmoTransformers extends JsonResource
 {
-
     public function toArray($request)
     {
-
         return [
-           
+
         ];
-
     }
-
 }

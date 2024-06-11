@@ -12,6 +12,9 @@ php artisan module:seed Icommercecheckmo
     
     https://mydomain/api/icommercecheckmo
 
+## Payments Methods by default (Config File)
 
-
-
+- Checkmoney 	(Contraentrega)
+- Cash			(Efectivo)
+- Davidplata	(David Plata)
+- Nequi			(Nequi)
